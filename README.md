@@ -34,8 +34,8 @@ security-ai/
 ## Windows setup
 
 ```powershell
-git clone https://github.com/fountainnnnn/Camera-Human-Detection-Computer-Vision-.git
-cd Camera-Human-Detection-Computer-Vision-
+git clone https://github.com/fountainnnnn/edge-human-detection.git
+cd edge-human-detection
 py -3.11 -m venv venv
 .\venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
